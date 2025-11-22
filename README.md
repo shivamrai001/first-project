@@ -16,4 +16,3 @@ No databases, no installations — just pure Python and a single `expenses.txt` 
 - 🗑️ Delete the last added expense (useful for mistakes)
 - 💾 All data saved automatically in `expenses.txt`
 
-
